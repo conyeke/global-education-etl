@@ -56,7 +56,7 @@ WB_PAGES_LIMIT = 6
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/global-education-etl.git
+git clone https://github.com/conyeke/global-education-etl.git
 cd global-education-etl
 ```
 
